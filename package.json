@@ -1,0 +1,8 @@
+{
+  "name": "metalsmith-clean-urls",
+  "version": "1.0.0",
+  "description": "Transforms files ending with .html into their clean diretory static generated counterpart",
+  "main": "clean-url.js",
+  "author": "Erik Kristensen <erik@erikkristensen.com>",
+  "license": "MIT"
+}
